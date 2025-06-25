@@ -19,4 +19,4 @@
 - **News API**: News API
 - **Styling**: Tailwind CSS
 
-
+![image](https://github.com/user-attachments/assets/4d1e3a64-9820-4153-9106-28b46d8dac57)
