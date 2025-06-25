@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TECHzNEWS
 
 **TECHzNEWS** is a modern tech news website built using React, powered by the News API, and supports user authentication with Auth0. The platform provides the latest news on technology, AI, and more with a dynamic, responsive UI. Users can browse articles, read in-depth content, search for specific topics, and leave comments.
@@ -19,5 +18,5 @@
 - **Authentication**: Auth0
 - **News API**: News API
 - **Styling**: Tailwind CSS
-=======
+
 
